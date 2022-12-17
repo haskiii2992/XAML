@@ -27,7 +27,7 @@ namespace XAML
         public string Pass
         {
             get { return pass; }
-            set { pass = value; }
+            set { pass = value; } 
         }
 
         public string AdminMode
